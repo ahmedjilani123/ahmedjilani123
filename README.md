@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Shaikh
 
-![Header Image](https://example.com/header-image.jpg)  <!-- Replace with your image URL -->
+![Header Image][(https://example.com/header-image.jpg](https://fastly.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I))  <!-- Replace with your image URL -->
 
 Welcome to my GitHub profile! Here’s a little about me:
 
