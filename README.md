@@ -19,6 +19,8 @@ Feel free to explore my repositories, and let me know if you'd like to collabora
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedjilani123&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjilani123&layout=compact)
+
 
 ---
 
