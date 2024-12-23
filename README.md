@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 - 👀 I’m interested in **SAP BTP, SAPUI5, JavaScript, OData, and backend development**.
-- 🌱 I’m currently learning **ABAP and expanding my knowledge of SAP technologies**.
-- 💞️ I’m looking to collaborate on **SAP Fiori/UI5 projects, Node.js, MongoDB**.
+- 🌱 I’m currently learning **SAP CAPM and expanding my knowledge of SAP technologies**.
+- 💞️ I’m looking to collaborate on **SAP Fiori/UI5 projects, Node.js, Express and Javascript**.
 - 📫 How to reach me: [ahmedjilani0011@gmail.com].
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: **I participated in ALMathon 2024 and earned a certificate!**
