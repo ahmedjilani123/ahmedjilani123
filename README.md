@@ -34,8 +34,8 @@ Here are some of my GitHub stats:
 
 Connect with me on my social platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/ahmed-shaikh/)  
-- [Twitter](https://twitter.com/ahmed_shaikh_)
+- [LinkedIn]([https://www.linkedin.com/in/ahmed-shaikh/](https://www.linkedin.com/in/ahmed-jilani-profile/))  
+
 
 ---
 
