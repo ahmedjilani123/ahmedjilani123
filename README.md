@@ -1,12 +1,8 @@
 # 👋 Hi, I'm Ahmed Shaikh
 
-![Header Image][(https://example.com/header-image.jpg](https://fastly.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I))  <!-- Replace with your image URL -->
-
 Welcome to my GitHub profile! Here’s a little about me:
 
 ## About Me
-![About Me Banner](https://example.com/about-me-banner.jpg)  <!-- Replace with your image URL -->
-
 - 👀 I’m passionate about **SAP BTP**, **SAPUI5**, **JavaScript**, **OData**, and **backend development**.
 - 🌱 I’m currently learning **SAP CAPM** and deepening my expertise in **SAP technologies**.
 - 💞️ I’m eager to collaborate on **SAP Fiori/UI5 projects**, **Node.js**, **Express**, and **JavaScript** applications.
@@ -17,7 +13,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 ---
 
 ## 🚀 Technologies & Tools
-![Tech Banner](https://example.com/tech-banner.jpg)  <!-- Replace with your image URL -->
+Here are some of the technologies and tools I work with:
 
 - **Frontend**: **SAPUI5**, **JavaScript**, **Node.js**, **Express**
 - **Backend**: **SAP BTP**, **MongoDB**, **OData**, **ABAP**
@@ -26,7 +22,37 @@ Welcome to my GitHub profile! Here’s a little about me:
 ---
 
 ## 📈 GitHub Stats
-![Stats Header](https://example.com/stats-header.jpg)  <!-- Replace with your image URL -->
+
+Here are some of my GitHub stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedjilani123&show_icons=true&hide_title=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjilani123&layout=compact&theme=radical)
+
+---
+
+## 🔗 Social Links
+
+Connect with me on my social platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/ahmed-shaikh/)  
+- [Twitter](https://twitter.com/ahmed_shaikh_)
+
+---
+
+## 🌱 Current Learning Goals
+
+- **Mastering SAP CAPM** and exploring **Cloud Foundry** for scalable applications.
+- Deepening knowledge of **CI/CD** pipelines and **DevOps** tools to enhance the development lifecycle.
+
+---
+
+## 🎯 Goals & Aspirations
+- Continue contributing to open-source projects.
+- Build real-world applications using SAP technologies and JavaScript.
+
+---
+
+<!--
+ahmedjilani123/ahmedjilani123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
